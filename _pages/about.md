@@ -18,8 +18,8 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am a fourth-year undergrad at the Indian Institute of Technology Gandhinagar, pursuing Dual Majors in Computer Science and Electrical Engineering. My research interests include `Deep Learning`, `Computer Vision` and `Domain Adaptation`. Recently, I have been working on 3D vision problems at [Dr. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/)'s CVIG Lab at IIT Gandhinagar.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have interned before at the University of Calgary as a MITACS GRI scholar at [Dr Roberto Souza](https://www.ai2lab.ca/team)'s [AI2 Lab](https://www.ai2lab.ca/home). I have also worked at [Dr. Mayank Singh](https://mayank4490.github.io/)'s [LINGO Lab](https://labs.iitgn.ac.in/lingo/) at IIT Gandhinagar.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Here is my [CV](https://drive.google.com/file/d/1EdppXEkPUz6ylg-matg5mI1T5Lj_im88/view?usp=sharing). Feel free to contact me to discuss any collaboration opportunities!
