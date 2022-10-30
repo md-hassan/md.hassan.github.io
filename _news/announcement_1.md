@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-09-23 
 inline: true
 ---
 
-A simple inline announcement.
+<a href="http://127.0.0.1:4000/projects/DA/">Paper</a> accepted in the journal <i> Frontiers in Neuroinformatics </i>!
+    
