@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colorizing Grayscale Images
-description: short description
+description: Giving life (and colour) to boring grayscale images.
 img: assets/img/Colorize.png
 importance: 2
 category: Projects

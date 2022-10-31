@@ -7,8 +7,7 @@ importance: 3
 category: Research Projects
 ---
 
-Website under Construction
+<h4> Work in progress </h4>
 
-    Need
-    Contribution
-    Result if applicable
+We plan on using textual description and an optional hand-drawn sketches to perform multi-modal 3D model retrieval. We leverage the recently proposed <a href="https://openai.com/blog/clip/">CLIP model</a> to find a common embedding space for all three data modalities (image, sketch and text). We are mainly referencing <a href="https://arxiv.org/pdf/2208.03354.pdf">this paper</a> and plan on building on top of the work.
+
