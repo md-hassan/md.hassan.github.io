@@ -7,7 +7,7 @@ importance: 2
 category: Research Projects
 ---
 
-Accurate brain segmentation is critical for Magnetic Resonance Imaging (MRI) analysis pipelines. However, the segmentations produced by Machine Learning models often degrade in the presence of domain shifts between the test and train sets data distributions. These domain shifts are expected due to factors, such as scanner hardware and software differences, technology updates, and differences in MRI acquisition parameters. Domain Adaptation (DA) methods can make Machine Learning models more resilient to these domain shifts. 
+Accurate brain segmentation is critical for Magnetic Resonance Imaging (MRI) analysis pipelines. However, the segmentations produced by Machine Learning models often degrade in the presence of domain shifts between the test and train sets data distributions. These domain shifts are expected due to factors such as scanner hardware and software differences, technology updates, and MRI acquisition parameters. Domain Adaptation (DA) methods can make Machine Learning models more resilient to these domain shifts. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

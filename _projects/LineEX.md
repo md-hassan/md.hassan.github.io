@@ -25,7 +25,6 @@ https://stackoverflow.com/questions/15202799/jekyll-and-custom-css -->
 
 Scientific papers contain a large proportion of non-textual content, such as charts and images, that do not serve more purpose than visualization. This non-textual content, if successfully processed, can be used in designing high-quality scholarly search engines, machine-generated task-specific leaderboards, and scholarly assistants for impaired people. 
 
-`LineEX` is a system to extract data from line charts found in scientific papers that leverages recent advancements in vision transformers. We propose a new loss function for line keypoint extraction that considers the local slope of lines unlike previous methods that did not model this for keypoint extraction.
-We showcase better qualitative and quantitive results due to this novel loss function. We have also curated the biggest synthetic line charts with more variations compared to previous datasets.
+`LineEX` is a system to extract data from line charts found in scientific papers that leverages recent advancements in vision transformers. We propose a new loss function for line keypoint extraction that considers the local slope of lines, unlike previous methods that did not model this for keypoint extraction. We showcase better qualitative and quantitive results due to this novel loss function. We have also curated the most extensive synthetic line charts with more variations than previous datasets.
 
 Our work has been accepted for publication at the <a href="https://wacv2023.thecvf.com/"> IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023</a>. The code is available <a href="https://github.com/Shiva-sankaran/LineEX">here</a>.

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /misc/
-title: Miscellanious
+title: Miscellaneous
 nav: true
 nav_order: 3
 ---
@@ -36,7 +36,7 @@ nav_order: 3
   <h2 class="category"> Other Interests </h2>
     <ul>
         <li> 
-            Favourite game: Dark Souls III (currently on a Soul Level 1 challenge run! :skull:)
+            Favorite game: Dark Souls III (currently on a Soul Level 1 challenge run! :skull:)
         </li>
         <li> 
             Music genres: Rock, Heavy Metal :metal:

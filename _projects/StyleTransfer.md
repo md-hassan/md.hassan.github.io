@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neural Style Transfer
-description: short description
+description: Rendering an image using the 'style' influence of another image.
 img: assets/img/StyleTransfer.jpg
 importance: 1
 category: Paper Re-implementations
