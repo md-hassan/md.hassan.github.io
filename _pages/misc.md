@@ -44,5 +44,8 @@ nav_order: 3
         <li> 
             Bands: Metallica, Black Sabbath, Gojira, Blue Öyster Cult :guitar:
         </li>
+        <li> 
+            Love to follow MMA (Mixed Martial Arts). Go Team Khabib! :boxing_glove:
+        </li>
     </ul>
 </div>
