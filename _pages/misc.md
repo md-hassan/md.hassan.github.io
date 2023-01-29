@@ -11,6 +11,9 @@ nav_order: 3
   <h2 class="category"> Achievements </h2>
     <ul>
         <li> 
+            Honorable Mention in the Undergraduate Research Showcase at IIT Gandhinagar.
+        </li>
+        <li> 
             Awarded the prestigious MITACS Globalink Research Internship with a grant of <b>9000CAD</b>.
         </li>
         <li> 
