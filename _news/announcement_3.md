@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-24 
+date: 2023-01-05 
 inline: true
 ---
 
-Attended AMII's <a href="https://www.amii.ca/events/amii-presents-ai-week/">AI Week</a> forum in Edmonton, Canada!
+Selected for the SURF Program at Caltech this summer!
