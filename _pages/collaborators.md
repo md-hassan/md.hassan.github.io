@@ -48,7 +48,7 @@ nav_order: 3
             <p><br> Associate Professor, IIT Gandhinagar </p>
         </div>
         <div class="tile">
-            <img src="../assets/img/collaborators/mayank_singh.png">
+            <img src="../assets/img/collaborators/mayank_singh.jpg">
             <a href="https://iitgn.ac.in/faculty/cse/mayank"> Dr. Mayank Singh </a>
             <p><br> Assistant Professor, IIT Gandhinagar </p>
         </div>
@@ -65,22 +65,22 @@ nav_order: 3
     <p> I am also grateful to have had the support of some amazing friends (in no particular order):</p>
     <div class="tile-container">
         <div class="tile">
-            <img src="../assets/img/collaborators/athar.jpeg">
+            <img src="../assets/img/collaborators/athar.jpg">
             <a href="https://www.linkedin.com/in/matharg7/"> Muhammad Athar Ganaie </a>
             <p><br> MS in CS, University of Calgary, Canada </p>
         </div>
         <div class="tile">
-            <img src="../assets/img/collaborators/manoj.jpeg">
+            <img src="../assets/img/collaborators/manoj.jpg">
             <a href="https://www.linkedin.com/in/manoj-taraka-ramarao-gunuru/"> Gunuru Manoj Taraka Ramarao </a>
             <p><br> Graduate Analyst, Barclays Corporate & Investment Bank </p>
         </div>
         <div class="tile">
-            <img src="../assets/img/collaborators/harshit.jpeg">
+            <img src="../assets/img/collaborators/harshit.jpg">
             <a href="https://www.linkedin.com/in/harshit-ramolia/"> Harshit Ramolia </a>
             <p><br> Dual Majors EE + CSE, IIT Gandinagar </p>
         </div>
         <div class="tile">
-            <img src="../assets/img/collaborators/shiva.jpeg">
+            <img src="../assets/img/collaborators/shiva.jpg">
             <a href="https://shiva-sankaran.github.io/"> Shivasankaran VP </a>
             <p><br> MS in CS, Stony Brook University, USA </p>
         </div>
