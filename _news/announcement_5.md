@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-17 
+date: 2024-01-01 
 inline: true
 ---
 
-I'll be joining  <a href="https://www.granular.ai/">Granular.ai</a> as an intern in January 2024!
+I have joined  <a href="https://www.granular.ai/">Granular.ai</a> as a ML Researcher intern!

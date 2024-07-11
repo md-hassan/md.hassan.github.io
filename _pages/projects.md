@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects.
 nav: true
 nav_order: 1
-display_categories: [Research Projects, Projects, Paper Re-implementations]
+display_categories: [Research, Projects, Paper Re-implementations]
 horizontal: false
 ---
 

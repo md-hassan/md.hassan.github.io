@@ -4,7 +4,7 @@ title: Anomaly Detection in the Zwicky Transient Facility
 description: Hunting for anomalous Astronomical Transients using Machine Learning.
 img: assets/img/ztf.jpg
 importance: 3
-category: Research Projects
+category: Research
 ---
 
 <h4> (Work in progress: to be further updated) </h4>

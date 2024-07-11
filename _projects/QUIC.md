@@ -2,7 +2,7 @@
 layout: page
 title: Comparing the Performance of DASH over HTTP/2 vs. HTTP/3
 description: Quantifying how well the latest HTTP protocol handles adaptive multimedia streaming.
-img: assets/img/WIP.jpeg
+img: assets/img/quic.png
 importance: 3
 category: Projects
 ---

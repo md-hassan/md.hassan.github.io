@@ -4,7 +4,7 @@ title: 'LineEX: Data Extraction from Scientific Line Charts'
 description: A system to extract data from line charts found in scientific papers. Not as easy as it sounds!
 img: assets/img/LineEX.png
 importance: 1
-category: Research Projects
+category: Research
 ---
 
 <div class="row">

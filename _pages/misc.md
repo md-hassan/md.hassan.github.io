@@ -48,7 +48,7 @@ nav_order: 4
             <b>Music genres:</b> Rock, Heavy Metal :metal:
         </li>
         <li> 
-            <b>Bands:</b> Metallica, Black Sabbath, Gojira, Blue Öyster Cult, Woods of Ypres (<b>sleeper band!</b>) :guitar:
+            <b>Bands:</b> Iron Maiden, Gojira, Blue Öyster Cult, Woods of Ypres (<b>sleeper band!</b>) :guitar:
         </li>
         <li> 
             Love to follow <b>MMA</b> (Mixed Martial Arts). Go Team Khabib! :boxing_glove:

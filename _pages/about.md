@@ -18,8 +18,10 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a final-year undergrad at the Indian Institute of Technology Gandhinagar, pursuing Dual Majors in Computer Science and Electrical Engineering. My research interests include `Deep Learning`, `Image Processing` and, `Multimodal Learning` among others. Recently, I have been working on 3D vision problems at [Dr. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/)'s CVIG Lab at IIT Gandhinagar.
+Hi, I am an incoming grad student at UMass Amherst, pursuing MS in Computer Science. My research interests include `Deep Learning`, `Image Processing` and, `Multimodal Learning` among others. 
 
-I spent this summer hunting for anomalous Astronomical Transients using Machine Learning as a [Caltech SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf) Fellow, advised by [Dr. Asish Mahabal](https://sites.astro.caltech.edu/~aam/). I have interned before at the University of Calgary as a [MITACS GRI](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) scholar at [Dr. Roberto Souza](https://www.ai2lab.ca/team)'s [AI2 Lab](https://www.ai2lab.ca/home). I have also worked at [Dr. Mayank Singh](https://mayank4490.github.io/)'s [LINGO Lab](https://labs.iitgn.ac.in/lingo/) at IIT Gandhinagar.
+Recently, I have been working on 3D vision problems at [Dr. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/)'s CVIG Lab at IIT Gandhinagar. 
 
-Here is my [CV](https://drive.google.com/file/d/1EdppXEkPUz6ylg-matg5mI1T5Lj_im88/view?usp=sharing) (last updated: Feb 2023). Feel free to contact me to discuss any collaboration opportunities!
+I spent last year's summer hunting for anomalous Astronomical Transients using Machine Learning as a [Caltech SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf) Fellow, advised by [Dr. Asish Mahabal](https://sites.astro.caltech.edu/~aam/). I have interned before at the University of Calgary as a [MITACS GRI](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) scholar with [Dr. Roberto Souza](https://www.ai2lab.ca/team). I have also collaborated with [Dr. Mayank Singh](https://mayank4490.github.io/) at IIT Gandhinagar.
+
+Here is my [Resume](https://drive.google.com/file/d/1CFdoPGoX5Ky-mOkchMmtjI_w-9dRPqjI/view?usp=sharing) (last updated: July 2024). I am always on the lookout for interesting problems and collaboration opportunities!
