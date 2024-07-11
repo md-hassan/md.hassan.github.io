@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am an incoming grad student at UMass Amherst, pursuing MS in Computer Science. My research interests include `Deep Learning`, `Image Processing` and, `Multimodal Learning` among others. 
+Hi, I am an incoming MSCS student at UMass Amherst. My research interests include `Deep Learning`, `Image Processing` and, `Multimodal Learning` among others. 
 
 Recently, I have been working on 3D vision problems at [Dr. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/)'s CVIG Lab at IIT Gandhinagar. 
 
