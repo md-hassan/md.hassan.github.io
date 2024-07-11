@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Muhammad Yusuf's Page # the website title (if blank, full name will be used instead)
 first_name: Muhammad Yusuf
 middle_name: 
 last_name: Hassan
-email: md.hassan@iitgn.ac.in
+email: mdhassan@umass.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -69,7 +69,7 @@ github_username: md-hassan # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: md-yusuf-hassan # your LinkedIn user name
-scholar_userid: md.hassan@iitgn.ac.in # your Google Scholar ID
+scholar_userid: mdhassan@umass.edu # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
